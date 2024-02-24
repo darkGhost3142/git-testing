@@ -1,2 +1,5 @@
-Hello Nice to meet you
-I am Dark Ghost
+
+## Authors
+
+- [@cybergod](https://www.github.com/cybergod)
+
